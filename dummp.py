@@ -1,7 +1,7 @@
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6"
-headers = {"Authorization": f"Bearer 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"}
+headers = {"Authorization": f"Bearer api key"}
 
 data = '''
 The tower is 324 metres (1,063 ft) tall, about the same height as an 81-storey building, 
